@@ -1,0 +1,136 @@
+{
+  "dropzone": [
+    {
+      "id": "eeMe",
+      "file": "static/chunks/55.52281c12e2a44c0b1243.js"
+    }
+  ],
+  "list.js": [
+    {
+      "id": "4R0K",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "4Rgd",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "6WLK",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "7hXx",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "Gt36",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "HGT3",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "MNKs",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "OIXf",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "Pjrz",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "R3AC",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "S8Ko",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "SLxf",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "XDpm",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "ZpFs",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "eHwM",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "lVAu",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "lrPD",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "mS74",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "qAMv",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    },
+    {
+      "id": "wUsG",
+      "file": "static/chunks/52.49a9f83da8c09c3c1584.js"
+    }
+  ],
+  "quill": [
+    {
+      "id": "kzlf",
+      "file": "static/chunks/eabe11fc.e41b916f42da0f937805.js"
+    },
+    {
+      "id": "49sm",
+      "file": "static/chunks/53.23e376d9e9a0c708b5be.js"
+    },
+    {
+      "id": "H7XF",
+      "file": "static/chunks/53.23e376d9e9a0c708b5be.js"
+    },
+    {
+      "id": "HDXh",
+      "file": "static/chunks/53.23e376d9e9a0c708b5be.js"
+    },
+    {
+      "id": "kVK+",
+      "file": "static/chunks/53.23e376d9e9a0c708b5be.js"
+    }
+  ],
+  "react-jvectormap": [
+    {
+      "id": "ijd7",
+      "file": "static/chunks/11.5423e75bbcd7f4234a1f.js"
+    }
+  ],
+  "react-select2-wrapper": [
+    {
+      "id": "EVdn",
+      "file": "static/chunks/b637e9a5.03b8475f3cca037e95c0.js"
+    },
+    {
+      "id": "AZHz",
+      "file": "static/chunks/54.18231c380717e781d290.js"
+    },
+    {
+      "id": "MqXh",
+      "file": "static/chunks/54.18231c380717e781d290.js"
+    },
+    {
+      "id": "dlXQ",
+      "file": "static/chunks/54.18231c380717e781d290.js"
+    }
+  ]
+}
